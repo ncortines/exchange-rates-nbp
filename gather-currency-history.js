@@ -1,3 +1,7 @@
+/**
+ * Released under the MIT license
+ */
+
 (() => {
 
 	'use strict'
